@@ -7,17 +7,19 @@
     <link href="https://fonts.googleapis.com/css2?family=Poiret+One&display=swap" rel="stylesheet">
   </head>
   <body>
-    <div class="container">
-      <div class="change-amount">
-        <button id="add" class="button left">+</button>
-        <button id="minus" class="button right">-</button>
+    <div class="whole-container">
+      <div class="container">
+        <button id="add" class="button left increment-decrement">+</button>
+        <button id="minus" class="button right increment-decrement">-</button>
       </div>
       <div class="container">
-        <button id="save" class="button">SAVE</button>
+        <button id="save" class="button small">SAVE</button>
       </div>
       <div class="container new-line">
-        <div id="display" class="display"></div>
+        <div id="current-display" class="display"></div>
+        <div id="saved-display" class="display"></div>
       </div>
     </div>
+    <script src="index.js"></script>
   </body>
 </html>

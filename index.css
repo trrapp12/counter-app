@@ -1,3 +1,11 @@
+:root {
+  --ruby-red: #A20021;
+  --radical-red: #F52F57;
+  --sandy-brown: #F79D5C;
+  --pumpkin: #F3752B;
+  --ghost-white: #EDEDF4;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -5,31 +13,45 @@
   scroll-behavior: smooth;
 }
 
-body {
-  max-width: 500 px;
-  height: 500px;
-  background-color: red;
-  display: block;
+.button {
+  font-family: 'Poiret One', cursive;
+  box-shadow: 3.4px 3.4px 11.9px -13px rgba(0, 0, 0, 0.033),
+8.7px 8.7px 26.4px -13px rgba(0, 0, 0, 0.038),
+17.7px 17.7px 47.4px -13px rgba(0, 0, 0, 0.043),
+36.5px 36.5px 87.1px -13px rgba(0, 0, 0, 0.055),
+100px 100px 221px -13px rgba(0, 0, 0, 0.11);
+  background-color: var(--ghost-white);
+  border: solid 3px var(--sandy-brown);
+  padding: 20px 30px;
+  font-size: 2rem;
+  font-weight: bold;
+  color: var(--radical-red)
 }
 
 .container {
   display: flex;
   flex-direction: row;
-  margin: auto;
+  margin: auto auto .5rem auto;
+  width: fit-content;
+  padding: 2rem;
 }
 
-.button {
-  font-family: 'Poiret One', cursive;
-  box-shadow:
-  3.4px 3.4px 11.9px -13px rgba(0, 0, 0, 0.033),
-  8.7px 8.7px 26.4px -13px rgba(0, 0, 0, 0.038),
-  17.7px 17.7px 47.4px -13px rgba(0, 0, 0, 0.043),
-  36.5px 36.5px 87.1px -13px rgba(0, 0, 0, 0.055),
-  100px 100px 221px -13px rgba(0, 0, 0, 0.11);
-  background-color: rgba (108, 122, 137);
-  border: solid 2px black;
-  padding: 20px 30px;
-  font-size: 2rem4;
+.display {
+  height: fit-content;
+  width: fit-content;
+  content: 'joe';
+  margin: auto;
+  padding: 1rem;
+  font-size: 3rem;
+  background-color: var(--ghost-white);
+  min-width: 100px;
+  text-align: center;
+  border: 5px solid var(--ruby-red);
+  color: var(--radical-red);
+}
+
+.increment-decrement {
+  padding: 7px 30px;
 }
 
 .left {
@@ -37,11 +59,22 @@ body {
   border-bottom-left-radius: 25px;
 }
 
+.new-line {
+  display: block;
+}
+
 .right {
   border-bottom-right-radius: 25px;
   border-top-right-radius: 25px;
 }
 
-.new-line {
-  display: block;
+.small {
+  font-size: 1.25rem;
+}
+
+.whole-container {
+  height: auto;
+  width: 300px;
+  background-color: var(--ghost-white);
+  border: 10px solid var(--pumpkin)
 }
