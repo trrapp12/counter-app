@@ -14,7 +14,7 @@
 }
 
 .button {
-  font-family: 'Poiret One', cursive;
+  font-family: 'Monoton', cursive;
   box-shadow: 3.4px 3.4px 11.9px -13px rgba(0, 0, 0, 0.033),
 8.7px 8.7px 26.4px -13px rgba(0, 0, 0, 0.038),
 17.7px 17.7px 47.4px -13px rgba(0, 0, 0, 0.043),
@@ -39,15 +39,21 @@
 .display {
   height: fit-content;
   width: fit-content;
-  content: 'joe';
   margin: auto;
   padding: 1rem;
   font-size: 3rem;
-  background-color: var(--ghost-white);
   min-width: 100px;
   text-align: center;
-  border: 5px solid var(--ruby-red);
-  color: var(--radical-red);
+  color: var(--ghost-white);
+  font-family: "Monoton";
+}
+
+h1 {
+  font-family: 'Monoton', cursive;
+  font-size: 5rem;
+  margin: auto;
+  color: var(--ruby-red);
+  text-align: center;
 }
 
 .increment-decrement {
@@ -61,6 +67,17 @@
 
 .new-line {
   display: block;
+  background-color: var(--ruby-red);
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+p {
+  font-family: "Overpass", sans-serif;
+  margin: auto;
+  color: var(--radical-red);
+  text-align: center;
 }
 
 .right {
