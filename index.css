@@ -25,7 +25,7 @@
   padding: 20px 30px;
   font-size: 2rem;
   font-weight: bold;
-  color: var(--radical-red)
+  color: var(--ruby-red);
 }
 
 .container {
@@ -45,7 +45,7 @@
   min-width: 100px;
   text-align: center;
   color: var(--ghost-white);
-  font-family: "Monoton";
+  font-family: "Monoton", cursive;
 }
 
 h1 {
@@ -58,6 +58,9 @@ h1 {
 
 .increment-decrement {
   padding: 7px 30px;
+  background-color: var(--sandy-brown);
+  color: var(--ghost-white);
+  border: 3px solid var(--pumpkin);
 }
 
 .left {
