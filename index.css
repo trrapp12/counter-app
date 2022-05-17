@@ -146,6 +146,10 @@ p {
   font-family: "Overpass", sans-serif;
 }
 
+.saved:empty {
+  display:none;
+}
+
 .whole-container {
   height: auto;
   width: 300px;
