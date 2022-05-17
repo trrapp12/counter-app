@@ -46,6 +46,7 @@
   text-align: center;
   color: var(--ghost-white);
   font-family: "Monoton", cursive;
+  transition: 500ms ease;
 }
 
 .current {
@@ -65,24 +66,28 @@ h1 {
   background-color: var(--sandy-brown);
   color: var(--ghost-white);
   border: 3px solid var(--pumpkin);
+  transition: 500ms ease;
 }
 
 .increment-decrement:hover {
   background-color: var(--ghost-white);
   color: var(--sandy-brown);
   border: 3px solid var(--pumpkin);
+  transition: 500ms ease;
 }
 
 .increment-decrement:focus {
   background-color: var(--ghost-white);
   color: var(--sandy-brown);
   border: 3px solid var(--pumpkin);
+  transition: 500ms ease;
 }
 
 .increment-decrement:active {
   background-color: var(--ghost-white);
   color: var(--sandy-brown);
   border: 3px solid var(--pumpkin);
+  transition: 500ms ease;
 }
 
 .left {
@@ -112,21 +117,28 @@ p {
 
 .small {
   font-size: 1.25rem;
+  transition: 500ms ease;
 }
 
 .small:hover {
-
   background-color: var(--sandy-brown);
   border: solid 3px var(--ruby-red);
   color: var(--ghost-white);
+  transition: 500ms ease;
 }
 
 .small:focus {
-
+  background-color: var(--sandy-brown);
+  border: solid 3px var(--ruby-red);
+  color: var(--ghost-white);
+  transition: 500ms ease;
 }
 
 .small:active {
-
+  background-color: var(--sandy-brown);
+  border: solid 3px var(--ruby-red);
+  color: var(--ghost-white);
+  transition: 500ms ease;
 }
 
 .saved {
