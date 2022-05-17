@@ -9,7 +9,7 @@
     }
 
     function updateSavedDisplay (input) {
-      savedDisplaySecion.innerText += ` : ${input} : `
+      savedDisplaySecion.innerText += ` / ${input} `
     }
 
     function setToZero () {

@@ -48,6 +48,10 @@
   font-family: "Monoton", cursive;
 }
 
+.current {
+  font-size: 6rem;
+}
+
 h1 {
   font-family: 'Monoton', cursive;
   font-size: 5rem;
@@ -60,6 +64,24 @@ h1 {
   padding: 7px 30px;
   background-color: var(--sandy-brown);
   color: var(--ghost-white);
+  border: 3px solid var(--pumpkin);
+}
+
+.increment-decrement:hover {
+  background-color: var(--ghost-white);
+  color: var(--sandy-brown);
+  border: 3px solid var(--pumpkin);
+}
+
+.increment-decrement:focus {
+  background-color: var(--ghost-white);
+  color: var(--sandy-brown);
+  border: 3px solid var(--pumpkin);
+}
+
+.increment-decrement:active {
+  background-color: var(--ghost-white);
+  color: var(--sandy-brown);
   border: 3px solid var(--pumpkin);
 }
 
@@ -90,6 +112,26 @@ p {
 
 .small {
   font-size: 1.25rem;
+}
+
+.small:hover {
+
+  background-color: var(--sandy-brown);
+  border: solid 3px var(--ruby-red);
+  color: var(--ghost-white);
+}
+
+.small:focus {
+
+}
+
+.small:active {
+
+}
+
+.saved {
+  font-size: 1.25rem;
+  font-family: "Overpass", sans-serif;
 }
 
 .whole-container {
