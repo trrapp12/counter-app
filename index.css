@@ -151,8 +151,11 @@ p {
 }
 
 .whole-container {
-  height: auto;
   width: 300px;
   background-color: var(--ghost-white);
-  border: 10px solid var(--pumpkin)
+  border: 10px solid var(--pumpkin);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
