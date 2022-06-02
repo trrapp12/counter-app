@@ -49,10 +49,10 @@ A basic counter app
 <br>
 <br>
 
-### Trevor-Rapp-Electronic-Business-Card published at: 
+### counter-app published at: 
 ---
 
-[Trevor-Rapp-Electronic-Business-Card](https://trrapp12.github.io/counter-app/)
+[Counter App](https://trrapp12.github.io/counter-app/)
 
 <br>
 <br>
