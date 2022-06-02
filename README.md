@@ -6,6 +6,10 @@
 
 <br>
 
+https://user-images.githubusercontent.com/11747875/171570539-e1d5dacb-3364-4fa6-8bd0-0ce358912f74.mp4
+
+<br>
+
 [![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://trrapp12.github.io/counter-app/)
 
 <br>
