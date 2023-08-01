@@ -64,25 +64,21 @@ A basic app to help you not lose track mid-count.
 ### MY OWN PERSONAL CONTRIBUTIONS INCLUDED 
 
 - [X] improving design and making it responsive
-- [ ] 
+     
 - [X] refactoring code base for cleaner code
 
 ---
 
 ### ATTRIBUTIONS
 
-<a href="https://www.flaticon.com/free-icons/skull" title="skull icons">Skull icons created by Smashicons - Flaticon</a>
+* fonts from Google Fonts
 
-Memento Mori is AI generated artwork by Trevor Rapp using <a href="https://www.imagine.art/">Imagine Art</a>.
-
-
+---
 
 ### YOU CAN FIND ME AT:
 
-\**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037), or return to my [Github](https://github.com/trrapp12)*
+*For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037), or return to my [Github](https://github.com/trrapp12)*
 
 <br>
-
-*This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).*
 
 
