@@ -1,6 +1,8 @@
 ﻿# counter-app
  
-##### Contributors: Trevor Rapp
+##### Contributors: Trevor Rapp, Per Harald Borgen 
+
+*this project completed as part of the Front-End Developer Career Path*
 
 ---
 
@@ -26,41 +28,58 @@ https://user-images.githubusercontent.com/11747875/171570539-e1d5dacb-3364-4fa6-
 <br>
 <br>
 
-### Description:
+---
+
+### DESCRIPTION:
+
+> "Not all things worth counting are countable, and not all things that count are worth counting."
+>
+> --Albert Einstein
+
+A basic app to help you not lose track mid-count.
+
+<br>
+<br>
 
 ---
 
+### THIS PROJECT DEMONSTRATES:
 
-A basic counter app
+🆕 functional programming
 
-<br>
-<br>
+🆕 event listeners
 
-### Trevor-Rapp-Electronic-Business-Card v1.0 demonstrates the following:
+🆕 Dom manipulation
+
+🆕 IFFE's
+
 ---
 
-- [x] DOM Eventlisteners
-- [x] basic Javascript
-- [x] basic CSS
-- [x] basic HTML
+### CHALLENGES I OVERCAME...
 
+* refactoring to create a clean, functional code base with separation of concerns in each function
 
-
-<br>
-<br>
-
-### counter-app published at: 
 ---
 
-[Counter App](https://trrapp12.github.io/counter-app/)
+### MY OWN PERSONAL CONTRIBUTIONS INCLUDED 
 
-<br>
-<br>
+- [X] improving design and making it responsive
+- [ ] 
+- [X] refactoring code base for cleaner code
 
-### More Information:
 ---
 
-\**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
+### ATTRIBUTIONS
+
+<a href="https://www.flaticon.com/free-icons/skull" title="skull icons">Skull icons created by Smashicons - Flaticon</a>
+
+Memento Mori is AI generated artwork by Trevor Rapp using <a href="https://www.imagine.art/">Imagine Art</a>.
+
+
+
+### YOU CAN FIND ME AT:
+
+\**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037), or return to my [Github](https://github.com/trrapp12)*
 
 <br>
 
