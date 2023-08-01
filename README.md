@@ -38,9 +38,6 @@ https://user-images.githubusercontent.com/11747875/171570539-e1d5dacb-3364-4fa6-
 
 A basic app to help you not lose track mid-count.
 
-<br>
-<br>
-
 ---
 
 ### THIS PROJECT DEMONSTRATES:
