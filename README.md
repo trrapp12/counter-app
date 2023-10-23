@@ -36,25 +36,33 @@ https://user-images.githubusercontent.com/11747875/171570539-e1d5dacb-3364-4fa6-
 >
 > --Albert Einstein
 
+<br/>
+
 A basic app to help you not lose track mid-count.
+
+<br/>
 
 ---
 
 ### THIS PROJECT DEMONSTRATES:
 
-🆕 functional programming
+- [X] functional programming
 
-🆕 event listeners
+- [X] event listeners
 
-🆕 Dom manipulation
+- [X] Dom manipulation
 
-🆕 IFFE's
+- [X] IFFE's
+
+<br/>
 
 ---
 
 ### CHALLENGES I OVERCAME...
 
-* refactoring to create a clean, functional code base with separation of concerns in each function
+- [X] refactoring to create a clean, functional code base with separation of concerns in each function
+
+<br/>
 
 ---
 
@@ -64,11 +72,15 @@ A basic app to help you not lose track mid-count.
      
 - [X] refactoring code base for cleaner code
 
+<br/>
+
 ---
 
 ### ATTRIBUTIONS
 
 * fonts from Google Fonts
+
+<br/>
 
 ---
 
