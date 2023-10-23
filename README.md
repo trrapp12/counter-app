@@ -2,7 +2,7 @@
  
 ##### Contributors: Trevor Rapp, Per Harald Borgen 
 
-*this project completed as part of the Front-End Developer Career Path*
+*this was an instructor lead project completed as part of the [Front-End Developer Career Path](https://scrimba.com/learn/frontend)*
 
 ---
 
